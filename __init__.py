@@ -1,0 +1,3 @@
+__version__ = (0, 0, 1)
+__version_info__ = '.'.join([map(str, __version__)])
+__software_name__ = 'flybee'
